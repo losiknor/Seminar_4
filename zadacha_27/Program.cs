@@ -14,4 +14,4 @@ string str = Console.ReadLine();
 
 int x = Convert.ToInt32(str)4;
 
-Console.WriteLine( "Количество цифр в числе" + digitCount (x) );
+Console.WriteLine( "Количество цифр в числе" + digitCount(x) );
